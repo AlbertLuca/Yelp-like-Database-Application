@@ -1,0 +1,1 @@
+A yelp-like database application created using Python, and PostgreSQL by Albert Lucas
