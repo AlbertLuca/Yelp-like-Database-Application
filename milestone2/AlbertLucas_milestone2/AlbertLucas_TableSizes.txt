@@ -1,0 +1,5 @@
+business table: 11481
+business_category table: 33619
+checkin table: 481360
+reviews table: 416479
+zipcodedata table: 32630
